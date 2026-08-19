@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/programador-sistema-senac-itaporanga/Aula1/Aula1.csproj": {}
+    "/workspaces/Repositorio-Pierre/Aula1/Aula1.csproj": {}
   },
   "projects": {
-    "/workspaces/programador-sistema-senac-itaporanga/Aula1/Aula1.csproj": {
+    "/workspaces/Repositorio-Pierre/Aula1/Aula1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/programador-sistema-senac-itaporanga/Aula1/Aula1.csproj",
+        "projectUniqueName": "/workspaces/Repositorio-Pierre/Aula1/Aula1.csproj",
         "projectName": "Aula1",
-        "projectPath": "/workspaces/programador-sistema-senac-itaporanga/Aula1/Aula1.csproj",
+        "projectPath": "/workspaces/Repositorio-Pierre/Aula1/Aula1.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/programador-sistema-senac-itaporanga/Aula1/obj/",
+        "outputPath": "/workspaces/Repositorio-Pierre/Aula1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

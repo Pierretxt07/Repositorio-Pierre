@@ -1,0 +1,15 @@
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/Atividades.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/Atividades.AssemblyInfoInputs.cache
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/Atividades.AssemblyInfo.cs
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/Atividades.csproj.CoreCompileInputs.cache
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/Atividades.sourcelink.json
+/workspaces/Repositorio-Pierre/Atividades/bin/Debug/net10.0/Atividades
+/workspaces/Repositorio-Pierre/Atividades/bin/Debug/net10.0/Atividades.deps.json
+/workspaces/Repositorio-Pierre/Atividades/bin/Debug/net10.0/Atividades.runtimeconfig.json
+/workspaces/Repositorio-Pierre/Atividades/bin/Debug/net10.0/Atividades.dll
+/workspaces/Repositorio-Pierre/Atividades/bin/Debug/net10.0/Atividades.pdb
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/Atividades.dll
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/refint/Atividades.dll
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/Atividades.pdb
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/Atividades.genruntimeconfig.cache
+/workspaces/Repositorio-Pierre/Atividades/obj/Debug/net10.0/ref/Atividades.dll

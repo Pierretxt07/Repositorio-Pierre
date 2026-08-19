@@ -1,0 +1,5 @@
+/workspaces/Repositorio-Pierre/obj/Debug/net10.0/programador-sistema-senac-itaporanga.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Repositorio-Pierre/obj/Debug/net10.0/programador-sistema-senac-itaporanga.AssemblyInfoInputs.cache
+/workspaces/Repositorio-Pierre/obj/Debug/net10.0/programador-sistema-senac-itaporanga.AssemblyInfo.cs
+/workspaces/Repositorio-Pierre/obj/Debug/net10.0/programador-sistema-senac-itaporanga.csproj.CoreCompileInputs.cache
+/workspaces/Repositorio-Pierre/obj/Debug/net10.0/programador-sistema-senac-itaporanga.sourcelink.json

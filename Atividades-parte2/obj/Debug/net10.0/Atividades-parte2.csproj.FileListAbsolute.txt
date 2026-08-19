@@ -1,0 +1,15 @@
+/workspaces/Repositorio-Pierre/Atividades-parte2/bin/Debug/net10.0/Atividades-parte2
+/workspaces/Repositorio-Pierre/Atividades-parte2/bin/Debug/net10.0/Atividades-parte2.deps.json
+/workspaces/Repositorio-Pierre/Atividades-parte2/bin/Debug/net10.0/Atividades-parte2.runtimeconfig.json
+/workspaces/Repositorio-Pierre/Atividades-parte2/bin/Debug/net10.0/Atividades-parte2.dll
+/workspaces/Repositorio-Pierre/Atividades-parte2/bin/Debug/net10.0/Atividades-parte2.pdb
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/Atividades-parte2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/Atividades-parte2.AssemblyInfoInputs.cache
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/Atividades-parte2.AssemblyInfo.cs
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/Atividades-parte2.csproj.CoreCompileInputs.cache
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/Atividades-parte2.sourcelink.json
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/Atividades-parte2.dll
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/refint/Atividades-parte2.dll
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/Atividades-parte2.pdb
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/Atividades-parte2.genruntimeconfig.cache
+/workspaces/Repositorio-Pierre/Atividades-parte2/obj/Debug/net10.0/ref/Atividades-parte2.dll
